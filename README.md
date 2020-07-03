@@ -10,3 +10,5 @@ The following projects are based on the programming assignments of deeplearning.
 * [Trigger word detection using GRU](https://github.com/vasilismg/RNN_LSTM_TensorFlow/tree/master/Trigger_word_detection_GRU): Use GRUs for trigger word detection, thus a device can wake up upon hearing a certain word.
 
 * [Word embeddings with LSTM](https://github.com/vasilismg/RNN_LSTM_TensorFlow/tree/master/Word_embeddings_LSTM): Implement an LSTM model which inputs a sentence in the form of word embeddings and finds the most appropriate emoji to be used with this sentence.
+
+# CHANGE
