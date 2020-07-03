@@ -1,4 +1,4 @@
-# RNN and LSTM networks using TensorFlow
+# Natural Language Processing projects
 
 
 The following projects are based on the programming assignments of deeplearning.ai, course Sequence models. They were implemented in Keras and I reimplemented them using TensorFlow.
