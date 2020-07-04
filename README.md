@@ -12,5 +12,8 @@ My own implementations of various Natural Language Processing projects inspired 
 
 * [Word embeddings with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Word_embeddings_LSTM): Implement an LSTM model which inputs a sentence in the form of word embeddings and finds the most appropriate emoji to be used with this sentence.
 
+## Requirements
+A full list of the requirements is given in each project separately. The deep learning library used in all projects was TensorFlow 1.x.
+
 ## Reference
 [deeplearning.ai Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
