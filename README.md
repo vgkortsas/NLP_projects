@@ -19,4 +19,5 @@ A full list of the requirements is given for each project separately. The deep l
 
 ## References
 [deeplearning.ai Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
+
 [Udacity Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
