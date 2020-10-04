@@ -8,6 +8,8 @@ My own implementations of various Natural Language Processing projects inspired 
 
 * [Encoder-decoder architecture for language translation](https://github.com/vgkortsas/NLP_projects/tree/master/Encoder_decoder_language_translation): Build an encoder-decoder architecture (without attention mechanism) to translate sentences from English to French.
 
+* [Image Captioning](https://github.com/vgkortsas/NLP_projects/tree/master/Image_Captioning):Automatically generate captions from images.
+
 * [Generate music with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Generate_music_LSTM): Build an LSTM network to generate music.
 
 * [Trigger word detection using GRU](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Trigger_word_detection_GRU): Use GRUs for trigger word detection, thus a device can wake up upon hearing a certain word.
