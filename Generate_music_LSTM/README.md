@@ -1,6 +1,5 @@
 # Generate music with LSTM
 
-
 [Generate music with LSTM](https://github.com/vgkortsas/NLP_projects/blob/master/Generate_music_LSTM/Generate_music_with_LSTM.ipynb): Build an LSTM network to generate music.
 
 This project is based on the corresponding programming assignment of deeplearning.ai, course Sequence models. It was implemented in Keras and I reimplemented it using TensorFlow 1.14.
