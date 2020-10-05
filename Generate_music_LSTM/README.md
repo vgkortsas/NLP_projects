@@ -9,6 +9,6 @@ This project is based on the corresponding programming assignment of deeplearnin
 A full list of the requirements is given [here](https://github.com/vgkortsas/NLP_projects/blob/master/Generate_music_LSTM/requirements.txt). The Python and deep learning library versions are:
 - Python 3.5.5
 - TensorFlow 1.14.0
-1
+
 ## Reference
 [deeplearning.ai Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
