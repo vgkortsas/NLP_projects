@@ -5,7 +5,7 @@
 
 This project is based on the corresponding programming assignment of deeplearning.ai, course Sequence models. It was implemented in Keras and I reimplemented it using TensorFlow 1.14.
 
-## Requirements
+## Requirements1
 A full list of the requirements is given [here](https://github.com/vgkortsas/NLP_projects/blob/master/Generate_music_LSTM/requirements.txt). The Python and deep learning library versions are:
 - Python 3.5.5
 - TensorFlow 1.14.0
