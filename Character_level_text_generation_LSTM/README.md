@@ -10,5 +10,5 @@ A full list of the requirements is given [here](https://github.com/vgkortsas/NLP
 - Python 3.5.5
 - TensorFlow 1.14.0
 
-## Reference1
+## Reference
 [deeplearning.ai Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
