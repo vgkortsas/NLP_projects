@@ -19,6 +19,5 @@ My own implementations of various Natural Language Processing projects inspired 
 A full list of the requirements is given for each project separately. The deep learning libraries used in the projects are TensorFlow 2.2, TensorFlow 1.x and Keras.
 ## References
 [deeplearning.ai Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
-[Udacity Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-
-language-processing-nanodegree--nd892)
+[Udacity Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 [Udacity Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
