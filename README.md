@@ -4,7 +4,7 @@ My own implementations of various Natural Language Processing projects inspired 
 
 ## Projects
 * [Character level text generation with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Character_level_text_generation_LSTM): Build a character-level text generation LSTM network to generate new dinosaur names.
-    * [Jupyter Notebook (TensorFlow 1.x)]https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Character_level_text_generation_LSTM/Character_level_text_generation_LSTM.ipynb
+    * [Jupyter Notebook (TensorFlow 1.x)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Character_level_text_generation_LSTM/Character_level_text_generation_LSTM.ipynb)
 * [Encoder-decoder architecture for language translation](https://github.com/vgkortsas/NLP_projects/tree/master/Encoder_decoder_language_traslation): Build an encoder-decoder architecture (without attention mechanism) to translate sentences from English to French.
 
 * [Image Captioning](https://github.com/vgkortsas/NLP_projects/tree/master/Image_Captioning): Automatically generate captions from images.
