@@ -8,6 +8,7 @@ My own implementations of various Natural Language Processing projects inspired 
 * [Encoder-decoder architecture for language translation](https://github.com/vgkortsas/NLP_projects/tree/master/Encoder_decoder_language_translation): Build an encoder-decoder architecture (without attention mechanism) to translate sentences from English to French.
     * [Jupyter Notebook (Keras)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Encoder_decoder_language_translation/Encoder_decoder_translation.ipynb)
 * [Image Captioning](https://github.com/vgkortsas/NLP_projects/tree/master/Image_Captioning): Automatically generate captions from images.
+    * [Jupyter Notebook (TensorFlow 2.2)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Image_Captioning/Image_Captioning.ipynb)
 * [Generate music with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Generate_music_LSTM): Build an LSTM network to generate music.
 * [Trigger word detection using GRU](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Trigger_word_detection_GRU): Use GRUs for trigger word detection, thus a device can wake up upon hearing a certain word.
 * [Word embeddings with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Word_embeddings_LSTM): Implement an LSTM model which inputs a sentence in the form of word embeddings and finds the most appropriate emoji to be used with this sentence.
