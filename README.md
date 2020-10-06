@@ -15,7 +15,7 @@ My own implementations of various Natural Language Processing projects inspired 
     * [Jupyter Notebook (TensorFlow 1.14)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Trigger_word_detection_GRU/Trigger_word_detection_GRU.ipynb)
 
 * [Word embeddings with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Word_embeddings_LSTM): Implement an LSTM model which inputs a sentence in the form of word embeddings and finds the most appropriate emoji to be used with this sentence.
-    * [Jupyter Notebook (TensorFlow 1.0)](https://github.com/vgkortsas/NLP_projects/blob/master/Word_embeddings_LSTM/Word_embeddings_LSTM.ipynb)
+    * [Jupyter Notebook (TensorFlow 1.0)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Word_embeddings_LSTM/Word_embeddings_LSTM.ipynb)
 
 ## Requirements
 A full list of the requirements is given for each project separately. The deep learning libraries used in the projects are TensorFlow 2.2, TensorFlow 1.x and Keras.
