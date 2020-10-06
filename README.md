@@ -17,6 +17,7 @@ My own implementations of various Natural Language Processing projects inspired 
     * [Jupyter Notebook (TensorFlow 1.0)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Word_embeddings_LSTM/Word_embeddings_LSTM.ipynb)
 ## Requirements
 A full list of the requirements is given for each project separately. The deep learning libraries used in the projects are TensorFlow 2.2, TensorFlow 1.x and Keras.
+
 ## References
 
 [deeplearning.ai Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
