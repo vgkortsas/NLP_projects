@@ -1,10 +1,12 @@
 # Image Captioning
 
-
+## Project description
 Automatically generate captions from images.
-*	[Jupyter Notebook](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Image_Captioning/Image_Captioning.ipynb)
 
 This project is based on the programming assignment "CVND Image-Captioning-Project" of the Udacity Computer Vision Nanodegree. It was implemented in PyTorch and I reimplemented it using TensorFlow 2.2. 
+
+## Description
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Image_Captioning/Image_Captioning.ipynb)
 
 ## Requirements
 A full list of the requirements is given [here](https://github.com/vgkortsas/NLP_projects/blob/master/Image_Captioning/requirements.txt). The Python and deep learning library versions are:
