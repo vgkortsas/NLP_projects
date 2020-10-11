@@ -7,7 +7,7 @@ My own implementations of various Natural Language Processing projects inspired 
     * [Jupyter Notebook (TensorFlow 1.14)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Character_level_text_generation_LSTM/Character_level_text_generation_LSTM.ipynb)
 * [Encoder-decoder architecture for language translation](https://github.com/vgkortsas/NLP_projects/tree/master/Encoder_decoder_language_translation): Build an encoder-decoder architecture (without attention mechanism) to translate sentences from English to French.
     * [Jupyter Notebook (Keras)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Encoder_decoder_language_translation/Encoder_decoder_translation.ipynb)
-* [Image Captioning](https://github.com/vgkortsas/NLP_projects/tree/master/Image_Captioning): Automatically generate captions from images.
+* [Image Captioning](https://github.com/vgkortsas/NLP_projects/tree/master/Image_Captioning): Use a CNN Encoder and a RNN Decoder to automatically generate captions from images.
     * [Jupyter Notebook (TensorFlow 2.2)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Image_Captioning/Image_Captioning.ipynb)
 * [Generate music with LSTM](https://github.com/vgkortsas/RNN_LSTM_TensorFlow/tree/master/Generate_music_LSTM): Build an LSTM network to generate music.
     * [Jupyter Notebook (TensorFlow 1.14)](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Generate_music_LSTM/Generate_music_with_LSTM.ipynb)
