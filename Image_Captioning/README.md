@@ -1,7 +1,7 @@
 # Image Captioning
 
 ## Project description
-Automatically generate captions from images.
+Use a CNN Encoder and a RNN Decoder to qutomatically generate captions from images.
 
 This project is based on the programming assignment "CVND Image-Captioning-Project" of the Udacity Computer Vision Nanodegree. It was implemented in PyTorch and I reimplemented it using TensorFlow 2.2. 
 
