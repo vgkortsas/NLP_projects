@@ -1,7 +1,7 @@
 # Encoder-decoder architecture for language translation
 
 ## Project description
-Build an encoder-decoder architecture (without attention mechanism) to translate sentences from English to French. 
+Build an encoder-decoder architecture, **without attention mechanism**, to translate sentences from English to French. 
 
 This project is based on the programming assignment "Machine translation" of the Udacity Natural Language Processing Nanodegree.
 
