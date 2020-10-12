@@ -7,7 +7,7 @@
 ## Project description
 Use a CNN Encoder and a RNN Decoder to automatically generate captions from images.
 
-<img src="https://github.com/vgkortsas/NLP_projects/blob/master/Image_Captioning/images/caption_.png " width="200">
+<img src="https://github.com/vgkortsas/NLP_projects/blob/master/Image_Captioning/images/caption_.png " width="500">
 
 This project is based on the programming assignment "CVND Image-Captioning-Project" of the Udacity Computer Vision Nanodegree. It was implemented in PyTorch and I reimplemented it using TensorFlow 2.2. 
 
