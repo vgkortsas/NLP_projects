@@ -1,13 +1,13 @@
 [//]: # (Image References)
 
-[image1]: ./images/caption_.png "caption" 
+[image1]: ./images/caption.png "caption" 
 
 # Image Captioning
 
 ## Project description
 Use a CNN Encoder and a RNN Decoder to automatically generate captions from images.
 
-![caption][image1]{height: 70%; width: 70%}
+![caption][image1]
 
 This project is based on the programming assignment "CVND Image-Captioning-Project" of the Udacity Computer Vision Nanodegree. It was implemented in PyTorch and I reimplemented it using TensorFlow 2.2. 
 
