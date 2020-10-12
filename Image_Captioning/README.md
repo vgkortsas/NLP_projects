@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/caption_.png==250x250 "caption" 
+[image1]: ./images/caption_.png=250x250 "caption" 
 
 # Image Captioning
 
