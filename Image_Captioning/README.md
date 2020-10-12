@@ -1,7 +1,3 @@
-[//]: # (Image References)
-
-[image1]: ./images/caption_.png "caption" 
-
 # Image Captioning
 
 ## Project description
