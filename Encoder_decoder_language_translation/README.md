@@ -5,7 +5,7 @@ Build an encoder-decoder architecture, **without attention mechanism**, to trans
 
 This project is based on the programming assignment "Machine translation" of the Udacity Natural Language Processing Nanodegree.
 
-# Implementation
+## Implementation
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/vgkortsas/NLP_projects/blob/master/Encoder_decoder_language_translation/Encoder_decoder_translation.ipynb)
  
 ## Requirements
